@@ -23,7 +23,8 @@ kode seperti berikut.
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 [http://localhost/lab7_php_dasar/](http://localhost/lab7_php_dasar/php_dasar.php)
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/php_dasar.png)
 
 2. Menambahkan variable pada program.
 ```php
@@ -51,7 +52,8 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 [http://localhost/lab7_php_dasar/](http://localhost/lab7_php_dasar/php_dasar.php)
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/php_variable.png)
 
 3. Predefine Variable $_GET
 ```php
@@ -72,7 +74,8 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 ```
 Untuk mengaksesnya gunakan URL:
 http://localhost/lab7_php_dasar/latihan2.php?nama=Agung
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/latihan2.png)
 
 4. Membuat Form Input
 ```php
@@ -103,7 +106,8 @@ if (isset($_POST['nama'])) {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/form_input.php
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_tugas.png)
 
 5. Operator
 ```php
@@ -117,7 +121,8 @@ echo "Gaji yang dibawa pulang = Rp. $thp";
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/operator.php
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/operator.png)
 
 6. Kondisi IF
 ```php
@@ -134,7 +139,8 @@ if ($nama_hari == "Sunday") {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/kondisi_if.php
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/kondisi_if.png)
 
 7. Kondisi Switch
 ```php
@@ -157,7 +163,8 @@ switch ($nama_hari) {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/kondisi_switch.php
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/kondisi_switch.png)
 
 8. Perulangan for
 ```php
@@ -175,7 +182,8 @@ for ($i=10; $i>=1; $i--) {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/perulangan_for.php
-
+hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/perulangan_for.png)
 
 9. Perulangan while
 ```php
@@ -190,7 +198,7 @@ while ($i<=10) {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/perulangan_while.php
-
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/perulangan_while.png)
 
 10. Perulangan do-while
 ```php
@@ -205,7 +213,8 @@ do {
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/perulangan_do-while.php
-
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/perulangan_do-while.png)
 
 ### Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
@@ -309,7 +318,8 @@ berbeda-beda sesuai pilihan pekerjaan.
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/form.php
-
+Hasil 
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_input.png)
 
 2. proses.php
 ```php
@@ -418,3 +428,5 @@ http://localhost/lab7_php_dasar/form.php
 ```
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/proses.php
+Hasil
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/proses_tugas.png)
