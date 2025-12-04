@@ -107,7 +107,7 @@ if (isset($_POST['nama'])) {
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/form_input.php
 Hasil
-![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_tugas.png)
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_input.png)
 
 5. Operator
 ```php
@@ -319,7 +319,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/form.php
 Hasil 
-![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_input.png)
+![foto](https://github.com/dirarohmaeni/Lab7web/blob/a172451699e4c998d6c4e3217f49dd1c45f46095/lab7/form_tugas.png)
 
 2. proses.php
 ```php
